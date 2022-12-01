@@ -1,0 +1,1 @@
+select * from patient1 where location = 'Rajajinagar';
